@@ -14,5 +14,7 @@ Realizar commit/salvar/versionar arquivos.
 git commit - m "Mensagem"
 ```
 
-Enviar arquivos para o Github
+Enviar arquivos para o Github.
+```
+git push
 ```
